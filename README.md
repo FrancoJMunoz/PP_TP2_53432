@@ -5,4 +5,5 @@ Conceptos aplicados al trabajo práctico 2:
 2. Serialización
 3. Generics
 4. Interfaces
+   
 **NOTA:** Se hace entrega SOLO hasta el ejercicio 3, que fue el último visto en clase.
